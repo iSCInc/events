@@ -1,3 +1,5 @@
+// https://developer.android.com/training/sharing/shareaction.html#set-share-intent
+
 private ShareActionProvider mShareActionProvider;
 ...
 
