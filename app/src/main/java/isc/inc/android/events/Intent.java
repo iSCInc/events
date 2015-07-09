@@ -1,3 +1,5 @@
+// https://developer.android.com/training/sharing/receive.html
+
 void onCreate (Bundle savedInstanceState) {
     ...
     // Get intent, action and MIME type
