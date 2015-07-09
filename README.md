@@ -4,7 +4,11 @@
 
 ## Functions
 
-* currently nothing
+To do:
+* [ ] [Sharing Simple Data](https://developer.android.com/training/sharing/index.html)
+* [ ] [Building Apps with Location & Maps](https://developer.android.com/training/building-location.html)
+* [ ] [Building Apps with User Info & Location](https://developer.android.com/training/building-userinfo.html)
+* [ ] [Building Apps for Work](https://developer.android.com/training/enterprise/index.html)
 
 ## Implementation
 
