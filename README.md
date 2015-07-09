@@ -12,7 +12,7 @@ To do:
 
 ## Implementation
 
-* [Android-Sliding-Tabs-With-Material-Design](https://github.com/joseedwin84/Android-Sliding-Tabs-With-Material-Design)
+* [Android Sliding Tabs With Material Design](https://github.com/joseedwin84/Android-Sliding-Tabs-With-Material-Design) by @joseedwin84
 
 ## Screenshots
 ![iSC Inc. Events Android App (alpha version)](/tabpic.png?raw=true "iSC Inc. Events Android App (alpha version)")
