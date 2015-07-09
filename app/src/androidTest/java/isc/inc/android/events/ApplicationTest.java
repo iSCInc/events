@@ -1,4 +1,4 @@
-package samples.exoguru.materialtabs;
+package isc.inc.android.events;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
