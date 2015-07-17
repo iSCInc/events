@@ -7,6 +7,8 @@
             <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
         <!-- Receiving Location Updates (https://developer.android.com/training/location/receive-location-updates.html) -->
             <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+        <!-- Need internet connection (for Facebook Login) -->
+            <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
