@@ -9,6 +9,7 @@ To do:
 * [ ] [Building Apps with Location & Maps](https://developer.android.com/training/building-location.html)
 * [ ] [Building Apps with User Info & Location](https://developer.android.com/training/building-userinfo.html)
 * [ ] [Building Apps for Work](https://developer.android.com/training/enterprise/index.html)
+* [ ] [Facebook Login for Android](https://developers.facebook.com/docs/facebook-login/android)
 
 ## Implementation
 
